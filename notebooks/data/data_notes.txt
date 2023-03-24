@@ -1,0 +1,5 @@
+card_transaction.v1.parquet
+card_transaction_processed.parquet
+card_transactions_fixed.parquet
+mappings.pkl
+synthetic_txns.parquet
